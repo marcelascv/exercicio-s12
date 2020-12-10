@@ -1,6 +1,8 @@
 # exercicio-s12
 
-Resumo aula da semana
+https://github.com/reprograma/on7-porto-s12-banco-de-dados
+
+####Resumo aula da semana
 
 Desenvolvedores backend se comunicam com o banco de dados através das permissões de acesso às informações;
 Armazenamos dados com alguma finalidade para resolver problemas;
